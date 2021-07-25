@@ -1,2 +1,3 @@
-# E-Comerce-Deluxo
-Web E-Comerce developed from the ground up
+Deluxo clothe E-Comerce
+![Alt Text](demo/deluxoDemo1.gif)
+![Alt Text](demo/deluxoDemo2.gif)

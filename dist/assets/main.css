@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Muli&display-swap);
+@import url(https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Muli&display-swap);
+@import url(https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap);
+.img-product{width:100%;object-fit:cover;object-position:center}.btn-group{display:flex;justify-content:space-evenly}
+
+.wrapper{width:100vw;height:100vh}.even-columns{display:flex;flex-flow:row wrap;justify-content:center;align-items:center}.col{width:371px;height:441px;flex-basis:100%;padding:2em}.categories{display:flex;justify-content:center;padding:32px}
+
+.not-found{color:white}
+
+header{display:flex;flex-direction:row;justify-content:flex-start;align-content:flex-start;align-items:center;width:100%;height:70px;background:#282A30;position:sticky;top:0;box-shadow:rgba(0,0,0,0.2) 0px 15px 20px -10px;z-index:10}.logo{flex-grow:1;margin-left:.5em;padding:1em}.logo a{text-transform:uppercase;font-size:1.25em;font-weight:200;color:inherit;text-decoration:none}.links{margin-left:1em;margin-right:1em}.links a{color:#dec7f1;padding:1em;text-decoration:none;font-weight:100}.links a:hover{color:#9552cc}.links button{color:#dec7f1;background-color:transparent;border:none;cursor:pointer;padding:1em;text-decoration:none;font-weight:100}.links button:hover{color:#9552cc}
+
+.registerBody{width:100%;height:100%;display:flex;justify-content:center;align-items:center;margin-top:2em}.registerForm{margin-top:2em;box-shadow:rgba(0,0,0,0.3) 0px 19px 38px,rgba(0,0,0,0.22) 0px 15px 12px;border-radius:20px;width:50%}.formContainer{display:flex;flex-direction:column;justify-content:center;align-items:center}.welcome-text{font-size:1.5em;font-weight:100;margin-bottom:1em;margin-top:1em}.createAcc{font-size:1em;font-weight:100;margin-bottom:2em}.formInput{display:flex;flex-direction:column;justify-content:center;align-items:center}.emailInput,.passInput{width:50%;border-bottom:1.5px solid #452d7a;margin-bottom:1.5em}.registerBtn{color:#dec7f1;background-color:transparent;border:1.5px solid #452d7a;border-radius:15px;outline:none;padding:.5em;font-family:inherit;font-size:inherit;margin-top:2em;margin-bottom:1em;width:30%}.registerBtn:hover{color:#9552cc;border:1.5px solid #dec7f1}.redirectLogIn{margin-bottom:1em}.redirectLogIn a{text-decoration:none;color:inherit}.redirectLogIn a:hover{color:#9552cc}input{color:white;width:100%;background-color:transparent;border:none;outline:none}
+
+.loginBody{width:100%;height:100%;display:flex;justify-content:center;align-items:center;margin-top:2em}.loginForm{margin-top:2em;box-shadow:rgba(0,0,0,0.3) 0px 19px 38px,rgba(0,0,0,0.22) 0px 15px 12px;border-radius:20px;width:50%}.loginFormContainer{display:flex;flex-direction:column;justify-content:center;align-items:center}.login-welcome-text{font-size:1.5em;font-weight:100;margin-bottom:1em;margin-top:1em}.loginCreateAcc{font-size:1em;font-weight:100;margin-bottom:2em}.formInput{display:flex;flex-direction:column;justify-content:center;align-items:center}.loginEmailInput,.loginPassInput{width:50%;border-bottom:1.5px solid #452d7a;margin-bottom:1.5em}input{color:white;width:100%;background-color:transparent;border:none;outline:none}.loginBtn{color:#dec7f1;background-color:transparent;border:1.5px solid #452d7a;border-radius:15px;outline:none;padding:.5em;font-family:inherit;font-size:inherit;margin-top:2em;margin-bottom:1em;width:30%}.loginBtn:hover{color:#9552cc;border:1.5px solid #dec7f1}.redirectLogIn{margin-bottom:1em}.redirectLogIn a{text-decoration:none;color:inherit}.redirectLogIn a:hover{color:#9552cc}
+
+footer{display:flex;flex-direction:row;justify-content:space-between;align-items:center;position:absolute;left:0;bottom:0;right:0;width:100%}
+
+.singleCardContainer{display:flex;flex-flow:row wrap;align-items:center;justify-content:center}.cardImg{height:500px}.cardDescription{display:flex;flex-flow:column wrap;text-align:center;justify-content:flex-start;align-items:flex-start}
+
+html{font-size:62.5%}body{margin:0;font-family:"Work Sans",sans-serif;background:#24252B;color:white;font-size:1.5em}
+
